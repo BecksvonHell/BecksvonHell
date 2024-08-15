@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BecksvonHell
 - 👀 I’m interested in learning statistics and graphing/data presentation
 - 🌱 I’m currently learning none of these
-- 💞️ I’m looking to collaborate on nothign really
+- 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me, is on here :)
 
 <!---
